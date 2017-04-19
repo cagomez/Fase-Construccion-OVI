@@ -165,3 +165,10 @@ img[src="imagenes/perfil.png"] {
   top: 350px;
   z-index: 0;
  }
+ iframe{
+  border: silver 75px solid;
+  border-image-source: url("../imagenes/fo.png");
+  border-image-slice: 75;
+
+
+}
